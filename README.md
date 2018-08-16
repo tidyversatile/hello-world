@@ -1,2 +1,4 @@
 # hello-world
 First repository
+
+Hi! I'm Austen. I'm from Birmingham, Michigan, where I grew up alongside my older sister and twin brother before attending the University of Michigan. After graduating in April 2017 with degrees in Business Administration and Political Science, I moved to Chicago to live with my best friends Jack and Paul. At the same time, I began my career as a tech consultant with IBM. I enjoy what I do, and would like to one day leverage my experience into work as a product manager and data scientist. I stand firmly against the oxford comma and firmly in support of those who pursue their passions with blatant disregard for other people's opinions. For me, those passions include sports and fitness, neurotechnology (especially brain-computer interfaces), competitive gaming and game development, civil discourses on politics and religion, and data analytics and visualization.
